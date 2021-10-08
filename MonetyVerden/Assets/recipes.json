@@ -1,0 +1,26 @@
+[
+  {
+    "name": "$monety_verden",
+    "nameValue": "EVENT | Monety Verden",
+    "prefabPath": "Assets/Prefabs/MonetyVyrden.prefab",
+    "item": "monetyverden",
+    "descriptionToken": "$monety_verden_opis",
+    "description": "Monety Verden",
+    "amount": 1,
+    "craftingStation": "piece_workbench",
+    "minStationLevel": 1,
+    "enabled": false,
+    "resources": [
+      {
+        "item": "Wood",
+        "amount": 5,
+        "amountPerLevel": 2
+      },
+      {
+        "item": "Stone",
+        "amount": 5,
+        "amountPerLevel": 2
+      }
+    ]
+  }
+]
